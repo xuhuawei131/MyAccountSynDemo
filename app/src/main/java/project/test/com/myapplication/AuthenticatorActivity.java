@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 /**
  * Created by 子云心 http://blog.csdn.net/lyz_zyx
+ * https://blog.csdn.net/lyz_zyx/article/details/73571927
  */
 public class AuthenticatorActivity extends AppCompatActivity {
     // TYPE必须与account_preferences.xml中的TYPE保持一致

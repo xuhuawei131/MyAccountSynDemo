@@ -42,6 +42,9 @@ public class SyncService extends Service {
         @Override
         public void onPerformSync(Account account, Bundle extras, String authority, ContentProviderClient provider, SyncResult syncResult) {
             // TODO 实现数据同步
+
+
+
             //getContext().getContentResolver().notifyChange(AccountProvider.CONTENT_URI, null, false);
         }
     }
